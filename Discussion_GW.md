@@ -29,7 +29,28 @@
    - After the ringdown process, a Kerr BH will be formed. Notice that a Kerr BH has smaller horizon area than a Schwarzchild BH of the same mass. Hence Kerr BH is more compact. The study of Kerr BH after ringdown could give us insights to strong field regime of gravity and further inspection of the validity of GR.
    - The sky location resolution of LIGO is $$\Delta \theta = \lambda / L \sim 28^{\circ}$$ for this event.
 
-5. GW170817
+5. GW170817, GRB170817A, AT 2017gfo
+
+   - Respectively - the GW event, the gamma-ray burst 1.7 s later, the afterglow in different wavelengths (kilonova).
+   - GW170817 - toward the end of the data run of O2 of aLIGO and aVirgo
+     - NS binary - produce a GW signal observable by **ground-based** detectors in the final minutes before the massive objects collide.
+       - Detection rate for advanced detectors (per year) - $\mathcal{O}(0.1)\sim\mathcal{O}(100)$ (astrophysical uncertainty).
+       - First indirect observation of GW - **the Hulse and Taylor pulsar**.
+     - Position localization - 28 deg$^2$ (purely GW signal restriction).
+     - Again, the chirp mass $\mathcal{M}$ ($\sim1.1\ M_\odot$ in the source frame and $\mathcal{M}^{d e t}=1.1977 M_{\odot}$ in the detectors frame when $z=0.008$ which) and the radius $R$ of the system are directly determined by observed $\omega$ and $\dot\omega$ during the inspiral phase. The amplitude $h$ is $\sim10^{-22}$ so we can derive a luminosity distance and redshift, which are consistent with the known results of NGC 4993
+     - As $R$ approaches the size of the bodies, PN theory is no longer valid, relativistic effects related to the mass ratio $q=m_2/m_1$ (where $m_2>m_1$) as well as spin-orbit and spin-spin couplings become more significant. The derived chirp mass $\mathcal{M}$ differs from values at early times, which means the details of the objects' internal structure become important.
+     - Individual masses are more difficult to determined. By assuming high/low spins, the masses of both objects are approximately $1.4M_\odot$.
+     - The inclination of the system $\Theta \leq 28^{\circ}$.
+     - Tidal effects are important for NS binaries (not important for BHs because they are **bald** as astronomers always do) especially when the two objects get really close, which corresponds to a high frequency $\nu_{g w} \simeq 600\ \mathrm{Hz}$. This is at present too hard for a ground-base interferometer to achieve, but once it is detected, we would gain a better understanding of the EoS of a NS.
+     - The final state depends on individual masses. It can be a NS with a torus, a supra-massive/hypermassive NS which turns into a BH with a torus soon, or directly a BH with a torus.
+   - GRB170817A - the prompt emission is attributed to internal energy dissipation inside a relativistic jet (**relativistic expanding fireballs**)
+     - Short GRB ($\Delta t \leq 2\ \mathrm{s}$) - first direct observation evidence.
+     - 1.7 s later than the GW, which is consistent with models of NS mergers
+     - The luminosity assuming an isotropic radiation is $\sim 4 \times 10^{46} \text { erg}$, which three orders of magnitude lower than a typical short GRB - a beamed emisson
+   - AT 2017gfo - afterglow of GRB170817A caused by forward shocks propagating in the surrounding ambient material and the related elemental decays
+     - Atoms heavier than $\ce{Fe}$ are now able to form in *r-process*, where an atom captures neutrons *rapidly* enough to exceed the decay of neutrons. The complex absorption lines come from these new atoms.
+     - The newly formed atoms then decay to emit thermal radiation, which leads to the afterglow.
+     - By assuming all heavy atoms come from NS mergers and applying the heavy elements producing rate of AT 2017gfo ($\sim 0.05M_\odot$), we can estimate the event rate of (detectable) NS mergers, which is of $\mathcal{O}(1)\sim\mathcal{O}(10)$ within $\sim200$ Mpc. If too many similar events are detected, some refinements regarding the theoretical models would be necessary. If we are not able to detect such events that much, other mechanisms of heavy elements production may also be important.
 
 6. Astrophysics of stellar BHs after GW150914
 
