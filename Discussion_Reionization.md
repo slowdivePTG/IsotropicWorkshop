@@ -123,3 +123,11 @@ $$
 
 - Strong UV and X-ray radiation during accretion, the latter can penetrate deep into IGM to change the thermal and ionization state of IGM
 - Massive Pop III stars ending with BHs may be seeds for SMBHs
+
+
+
+## Observational constrains
+
+- QSO. Gunn-Peterson trough indicates an elevated neutral hydrogen fraction. By observing high-z QSO with Gunn-Peterson trough, we can determine when the trough disappeared, then further determine the ending of reionisation. Btw, a tiny amount of neutral hydrogen will be optically thick enough and absorb all light at $$1216(1+z)$$ angstrom. Anyway, QSO spectra probe the end of cosmic reionisation.
+- CMB. CMB photons can be scattered by free electrons (Thomson scattering). By measuring the total amount of CMB photons and calculating the total amount of CMB photos theoretically, an optical depth could be calculated. Then the time of reionisation can be worked out by assuming some reionisation models. Planck data indicates $$z=7.82\pm0.71$$ when the universe is half-ionized.
+- 21-cm lines. We can define a spin temperature $$T_s = T_* \ln(3n_0 / n_1) $$, where $$T_* = E_{21}/k_B$$. This temperature depicts the distribution of states on hyperfine levels. Before everything got ionized, the spin temperature is tightly bonded with CMB temperature. Absorption and emission will change the spin temperature slightly for $$\delta T_b$$. Stars began to form after $$z\sim30$$, decrease $$\delta T_b$$. X-ray sources will increase $$\delta T_b$$. Overall, $$\delta T_b$$ would decrease to negative and smoothly converge to zero. We have observed a trough from EDGES centering at $$z\sim 18$$, indicating many interesting new physics. 
